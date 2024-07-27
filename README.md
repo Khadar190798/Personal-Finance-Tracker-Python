@@ -1,0 +1,1 @@
+This is a personal finance tracker app where you can add your transctions and their description and plot the data on the graphs getting a clear picture of your incomes and expenditure  
